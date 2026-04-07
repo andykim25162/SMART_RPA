@@ -5,7 +5,7 @@ SmartRPA 시스템에서 구글 시트 연동이나 데이터 분석을 위해 G
 ---
 
 ### 1단계: Google Cloud Console 접속
-먼저 [Google Cloud Console](https://console.cloud.google.com/)에 접속하여 로그인을 완료합니다.
+먼저 [Google Cloud Console](<a href="https://console.cloud.google.com/" target="_blank">Google Cloud Console 접속하기</a>)에 접속하여 로그인을 완료합니다.
 
 > 💡 **Tip:** 가급적 시스템 전용으로 사용할 구글 계정으로 로그인하는 것을 권장합니다.
 
