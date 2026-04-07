@@ -3,7 +3,7 @@
 * [🚀 시작하기](README.md)
 * [⚙️ 설치 및 설정](setup/README.md)
   * [Python 환경 구축](setup/python-env.md)
-  * [API 키 발급 및 등록 (LS증권)](setup/api-key.md)
+  * [🔑 구글 API 발급 가이드](google-api-setup.md)
   * [GUI 설정 가이드](setup/gui-config.md)
 
 * [💻 주요 기능 사용법](features/README.md)
